@@ -1,0 +1,5 @@
+HospitalID,ClinicID,LocationID,Latitude,Longitude,City,State,Country,PINCode,InstanceName,InstanceStatus,ServerURL,Port,Username
+1,1,1,43.65107,-79.347015,Kitchener,Ontario,Canada,123456,Instance1,Active,jdbc:mysql://34.93.21.96:3306,3306,root
+1,3,1,43.65107,-79.347015,Kitchener,Ontario,Canada,123456,Instance1,Active,jdbc:mysql://34.93.21.96:3306,3306,root
+2,2,2,44.6488,-63.5752,Halifax,Nova Scotia,Canada,123456,Instance2,Active,jdbc:mysql://34.47.134.158:3306,3306,root
+2,4,2,44.6488,-63.5752,Halifax,Nova Scotia,Canada,123456,Instance2,Active,jdbc:mysql://34.47.134.158:3306,3306,root
